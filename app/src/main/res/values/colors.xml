@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="greenGame">#03c03c</color>
+    <color name="blueGame">#0080ff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="buttonBlue">#89b4bc</color>
+    <color name="redDelete">#DC143C</color>
+    <color name="green">#0eb655</color>
+    <color name="pinkRole">#fc89ac</color>
+    <color name="orangeTeam">#ffa500</color>
+    <color name="redDual">#e34234</color>
+    <color name="navbar_blue">#1C2031</color>
+    <color name="basic_blue">#121421</color>
+    <color name="light_blue">#4A80F0</color>
+    <color name="grey_text">#CDCDCD</color>
+    <color name="blue_grad">#223986</color>
+    <color name="rose_grad">#9848e2</color>
+    <color name="orange_beer">#fcc24c</color>
+</resources>

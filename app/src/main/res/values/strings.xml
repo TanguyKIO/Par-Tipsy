@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TripleKaisse</string>
+    <string name="player_hint">Entrer le nom d\'un joueur</string>
+    <string name="play_button">Jouer</string>
+    <string name="add_hint">+</string>
+    <string name="edit_hint">Ajouter / Supprimer les cartes</string>
+    <string name="add_item">Ajouter une carte</string>
+    <string name="edit_advice">Pour faire remplir par un nom aléatoire mettre %s à la place du nom</string>
+    <string name="delete">Suppr</string>
+    <string-array name="Role">
+        <item>Action</item>
+        <item>Question</item>
+        <item>Rôle</item>
+        <item>Quizz</item>
+        <item>Duel</item>
+    </string-array>
+    <string-array name="Theme">
+        <item>Fun</item>
+        <item>Hot</item>
+        <item>Team</item>
+        <item>Intime</item>
+        <item>Boisson</item>
+        <item>Musique</item>
+    </string-array>
+    <string-array name="Gamemodes">
+        <item>Basique</item>
+        <item>En équipe</item>
+    </string-array>
+    <string name="back">Retour</string>
+    <string name="nb_quest_hint">Nombre de cartes</string>
+    <string name="new_card">Nouvelle carte</string>
+    <string name="add_player">Ajoutez des joueurs !</string>
+    <string name="desc_new">Description de la carte…</string>
+    <string name="choose_type">Choisissez le type de la carte</string>
+    <string name="ok">OK</string>
+    <string name="more_player">Pas assez de joueurs \n Ajoutez-en pour continuer</string>
+    <string name="home_button">Quitter</string>
+    <string name="search_card_hint">Rechercher une carte…</string>
+</resources>
